@@ -47,34 +47,16 @@ Man kann die `Mediatheken` verwalten und vieles mehr...
 
 ===
 
-==- Was ist denn ein Share?
-
-Der Betreiber teilt seine Inhalte mit dir.  
-Der Benutzer ist `nicht Besitzer des Servers` oder hat `Administratorrechte`.  
-Man kann keine Freunde oder Bekannte auf seinen Share einladen.  
-Bei Problemen kann der Nutzer den Server hinter dem Share nicht `neu starten` oder `neu aufbauen`, denn das kann nur der Betreiber.  
-Man ist also völlig vom Betreiber abhängig.  
-
-Zusammengefasst:  
-Man kann den Server nicht selbstständig `ausschalten`, `einschalten`, `neustarten` oder `neu aufbauen`.  
-Man kann keine `Profile` erstellen, z.B. für `Familie oder Bekannte`.  
-Man kann keine `andere Plex-Benutzer` per `E-Mail` einladen.  
-Man kann nicht sehen, wer gerade was `anschaut`.  
-`Downloads` sind `nicht` möglich.  
-Man kann die `Mediatheken` nicht verwalten und vieles mehr...  
-
-===
 
 ==- Warum bekomme ich täglich keine neuen Inhalte?
 
 Es ist wichtig, diese Schritte zu befolgen, damit täglich neue Medien auf der Startseite erscheinen.  
 
-[Claiming -> ab Punkt 7](https://u3known.github.io/sb-wiki/appbox/claiming/#verkn%C3%BCpfung-der-appbox-mit-plex)<br/>
 [Einstellungen -> Geplante Aufgaben](https://u3known.github.io/sb-wiki/appbox/plex-settings/#geplante-aufgaben)<br/>
 [Verwalten -> Mediatheken](https://u3known.github.io/sb-wiki/appbox/plex-settings/#verwalten---mediatheken)<br/>
 
 Nach diesen Schritten ist lediglich ein Neustart des Servers erforderlich.  
-Nach dem Neustart wird die Mediathek automatisch alle 6 Stunden gescannt.    
+Nach dem Neustart wird die Mediathek automatisch alle 12 Stunden gescannt.    
 
 ===
 
@@ -206,10 +188,6 @@ Im `Streamboy Discord` unter:
 Ja, das ist möglich!  
 Bitte beachte, dass dies unter Fair-Use erfolgen muss, da es die Serverleistung für andere Nutzer beeinträchtigt.
 
-**Vorraussetzung:**  
-Ihr habt eine `AppBox`.  
-
-Bei `Share` geht es nicht, da es vom Betreiber gesperrt wurde.
 
 ===
 
@@ -236,10 +214,7 @@ Nicht die Mediathek, sondern die Metadaten müssen neu eingelesen werden!
 ==- Kann ich die Mediatheken mit Freunden oder Familie teilen?
 
 Ja, das ist möglich!  
-Bei `Share` geht es nicht.
 
-**Vorraussetzung:**  
-Ihr habt eine `AppBox`.  
 
 1. [Plex Login](https://app.plex.tv/desktop/#!/login) öffnen.
 2. Meldet euch in Plex mit eurer `E-Mail-Adresse` und `Passwort` ein.
