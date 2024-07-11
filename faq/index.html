@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.774045703421">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.5.0.774045963805">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.5.0">
@@ -30,11 +30,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=3.5.0.774045703421" rel="stylesheet">
+    <link href="../resources/css/retype.css?v=3.5.0.774045963805" rel="stylesheet">
 
-    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.774045703421" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../resources/js/config.js?v=3.5.0.774045963805" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../resources/js/retype.js?v=3.5.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.774045703421" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../resources/js/lunr.js?v=3.5.0.774045963805" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -187,29 +187,13 @@ Man kann sehen, wer gerade was <code v-pre>anschaut</code>.<br />
 <code v-pre>Downloads</code> sind möglich.<br />
 Man kann die <code v-pre>Mediatheken</code> verwalten und vieles mehr...</p>
 </doc-panel>
-<doc-panel id="was-ist-denn-ein-share" collapsed>
-    <template #title>Was ist denn ein Share?</template>
-<p>Der Betreiber teilt seine Inhalte mit dir.<br />
-Der Benutzer ist <code v-pre>nicht Besitzer des Servers</code> oder hat <code v-pre>Administratorrechte</code>.<br />
-Man kann keine Freunde oder Bekannte auf seinen Share einladen.<br />
-Bei Problemen kann der Nutzer den Server hinter dem Share nicht <code v-pre>neu starten</code> oder <code v-pre>neu aufbauen</code>, denn das kann nur der Betreiber.<br />
-Man ist also völlig vom Betreiber abhängig.</p>
-<p>Zusammengefasst:<br />
-Man kann den Server nicht selbstständig <code v-pre>ausschalten</code>, <code v-pre>einschalten</code>, <code v-pre>neustarten</code> oder <code v-pre>neu aufbauen</code>.<br />
-Man kann keine <code v-pre>Profile</code> erstellen, z.B. für <code v-pre>Familie oder Bekannte</code>.<br />
-Man kann keine <code v-pre>andere Plex-Benutzer</code> per <code v-pre>E-Mail</code> einladen.<br />
-Man kann nicht sehen, wer gerade was <code v-pre>anschaut</code>.<br />
-<code v-pre>Downloads</code> sind <code v-pre>nicht</code> möglich.<br />
-Man kann die <code v-pre>Mediatheken</code> nicht verwalten und vieles mehr...</p>
-</doc-panel>
 <doc-panel id="warum-bekomme-ich-täglich-keine-neuen-inhalte" collapsed>
     <template #title>Warum bekomme ich täglich keine neuen Inhalte?</template>
 <p>Es ist wichtig, diese Schritte zu befolgen, damit täglich neue Medien auf der Startseite erscheinen.</p>
-<p><a href="https://u3known.github.io/sb-wiki/appbox/claiming/#verkn%C3%BCpfung-der-appbox-mit-plex">Claiming -&gt; ab Punkt 7</a><br/>
-<a href="https://u3known.github.io/sb-wiki/appbox/plex-settings/#geplante-aufgaben">Einstellungen -&gt; Geplante Aufgaben</a><br/>
+<p><a href="https://u3known.github.io/sb-wiki/appbox/plex-settings/#geplante-aufgaben">Einstellungen -&gt; Geplante Aufgaben</a><br/>
 <a href="https://u3known.github.io/sb-wiki/appbox/plex-settings/#verwalten---mediatheken">Verwalten -&gt; Mediatheken</a><br/></p>
 <p>Nach diesen Schritten ist lediglich ein Neustart des Servers erforderlich.<br />
-Nach dem Neustart wird die Mediathek automatisch alle 6 Stunden gescannt.</p>
+Nach dem Neustart wird die Mediathek automatisch alle 12 Stunden gescannt.</p>
 </doc-panel>
 <doc-panel id="meine-gespeicherten-inhalte-sind-nach-einem-serverwechsel-verschwunden" collapsed>
     <template #title>Meine gespeicherten Inhalte sind nach einem Serverwechsel verschwunden?</template>
@@ -313,9 +297,6 @@ Im <code v-pre>Streamboy Discord</code> unter:</p>
     <template #title>Kann ich Filme oder Serien für Reisen herunterladen?</template>
 <p>Ja, das ist möglich!<br />
 Bitte beachte, dass dies unter Fair-Use erfolgen muss, da es die Serverleistung für andere Nutzer beeinträchtigt.</p>
-<p><strong>Vorraussetzung:</strong><br />
-Ihr habt eine <code v-pre>AppBox</code>.</p>
-<p>Bei <code v-pre>Share</code> geht es nicht, da es vom Betreiber gesperrt wurde.</p>
 </doc-panel>
 <doc-panel id="warum-werden-cover-und-beschreibungen-nicht-richtig-angezeigt" collapsed>
     <template #title>Warum werden Cover und Beschreibungen nicht richtig angezeigt?</template>
@@ -338,10 +319,7 @@ Nicht die Mediathek, sondern die Metadaten müssen neu eingelesen werden!</p>
 </doc-panel>
 <doc-panel id="kann-ich-die-mediatheken-mit-freunden-oder-familie-teilen" collapsed>
     <template #title>Kann ich die Mediatheken mit Freunden oder Familie teilen?</template>
-<p>Ja, das ist möglich!<br />
-Bei <code v-pre>Share</code> geht es nicht.</p>
-<p><strong>Vorraussetzung:</strong><br />
-Ihr habt eine <code v-pre>AppBox</code>.</p>
+<p>Ja, das ist möglich!</p>
 <ol>
 <li><a href="https://app.plex.tv/desktop/#!/login">Plex Login</a> öffnen.</li>
 <li>Meldet euch in Plex mit eurer <code v-pre>E-Mail-Adresse</code> und <code v-pre>Passwort</code> ein.</li>
