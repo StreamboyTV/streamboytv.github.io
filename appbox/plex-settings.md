@@ -198,20 +198,6 @@ Dies verhindert, dass Filme & Serien, die fortgesetzt werden sollen, von der Sta
 
 ---
 
-## Geplante Aufgaben
-
-1. `Geplante Aufgaben` öffnen.
-2. Folgendes umsetzen und speichern:
-
-!!!info Info
-Wenn "Alle Mediatheken während der Wartung aktualisieren" aktiviert ist, wird täglich ein Scan der Mediatheken durchgeführt.<br/>
-Dies ist sehr wichtig, da sonst keine neuen Inhalte mehr erscheinen.<br/>
-!!!
-
-- Alle Mediatheken während der Wartungsmaßnahmen aktualisieren: `Ein`
-
----
-
 ## Extras
 
 1. `Extras` öffnen.
