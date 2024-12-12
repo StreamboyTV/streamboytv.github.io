@@ -6,7 +6,6 @@ icon: star
 
 # Hörbücher-Mediathek hinzufügen
 
-<h2>Wichtig</h2>
 
 **Dieser Teil ist nur relevant für Nutzer, die vor dem 12.12.24 Streamboy-MItglied geworden sind. Alle anderen haben die Hörbuch-Mediathek automatisch verfügbar!**  
 
