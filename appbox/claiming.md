@@ -12,7 +12,6 @@ icon: link
 4. Den Token herauskopieren und in das Feld `plex.tv Claim Token` einfügen.
 5. Klicke auf `Claim Plex Server`.
 6. Sind die Daten korrekt erscheint eine `Erfolgsmeldung`.
-7. [!badge variant="warning" text="Wichtig"] Ganz unten `Restart @ /day` auf einen gewünschten Zeitpunkt einstellen. Damit wird gewährleistet, dass deine PlexBox regelmäßig geupdated wird.
 
 
 ---
