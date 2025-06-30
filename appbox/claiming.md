@@ -3,7 +3,6 @@ label: Verknüpfung der AppBox mit Plex
 order: -3
 icon: link
 ---
-Emby Anleitung
 
 # Verknüpfung der AppBox mit Plex
 
