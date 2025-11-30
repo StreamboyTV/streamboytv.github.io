@@ -11,7 +11,5 @@ Die Adresse, die du im Kronos Dashboard findest(komplett, inklusive https://), z
 Und den Port. Dieser ist immer:
 `443`
 
-Alle Infos dazu inklusive Anleitung zu Einrichtung und besten Settings haben wir dir unter diesem Link zubereitet:
-https://tinyurl.com/Emby-Endnutzer-Dashboard-2025
 
 ---
