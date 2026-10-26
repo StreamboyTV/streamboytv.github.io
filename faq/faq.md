@@ -137,26 +137,15 @@ Einfach aus dem `Google Play Store` oder aus dem `Apple App Store` die App `Plex
 
 ==- Kostet die Nutzung von Plex etwas?
 
-Grundsätzlich nein.
+Ja, es wird ein Remote Watch Pass oder ein Plex Pass benötigt.
 
-Es gibt eine `einmalige Gebühr` für `mobile Geräte`.  
-Wenn man einen `Plex Pass` besitzen, muss man diese Gebühr nicht bezahlen für mobile Geräte.
-
-Für `Fernseher` oder `Tablets` muss man `keine Gebühr zahlen`, egal ob man einen `Plex Pass` besitzt oder nicht.  
-Das ist kostenlos.
 
 ===
 
 ==- Braucht man einen Plex Pass?
 
-Nein.
+Ja, entweder Remote Watch Pass  oder Plex Pass
 
-Der `Plex Pass` bietet nur sehr wenige Vorteile bei der Nutzung von Streamboy.
-
-Welche Vorteile habe ich bei der Nutzung von Streamboy in Kombination mit dem Plex Pass?
-- `Mehr Designs` stehen zur Auswahl.
-- Du kannst `Trailer` sehen.
-- Es entfällt die `einmalige Gebühr` für `mobile Geräte`.
 
 ===
 
