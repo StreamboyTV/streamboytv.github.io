@@ -1,0 +1,29 @@
+﻿# Startseite
+
+> Wiki für alles, was mit Plex zu tun hat und mehr!
+
+- [Startseite](https://streamboytv.github.io/index.md): Startseite
+- [Häufig gestellte Fragen](https://streamboytv.github.io/faq/faq.md): In dieser FAQ findest du Antworten auf häufig gestellte Fragen. Wir haben die am häufigsten gestellten Fragen sorgfältig gesammelt und in klaren, leicht verständlichen Antworten zusammengefasst.
+
+## Emby Anleitung
+
+- [Aktivieren der EmbyBox](https://streamboytv.github.io/emby/claiming.md): Wenn dein Emby Server aktiviert wurde, erhälst du eine E-Mail mit deinem Zugangslink und entsprechenden Login-Daten. Die sieht in etwa so aus:
+- [Für die korrekten EInstellungen und Einrichtungen haben wir hier eine](https://streamboytv.github.io/emby/einrichtung-der-embyapps.md): Um die App korrekt zu verbinden brauchst du folgende Daten: Die Adresse, die du im Kronos Dashboard findest(komplett, inklusive https://), zum Beispiel: https://1234.aabcde.org Und den Port.
+
+## Einrichtung der Plex AppBox
+
+- [Bei Plex registrieren](https://streamboytv.github.io/appbox/plex-register.md): Registieren
+- [AppBox bestellen](https://streamboytv.github.io/appbox/buy-server.md): Rufe die Website mit deinem Webbrowser auf.
+- [Verknüpfung der AppBox mit Plex](https://streamboytv.github.io/appbox/claiming.md): Logge dich mit den per Email erhaltenen Daten ein.
+- [Allgemeine Einstellungen von Plex AppBox](https://streamboytv.github.io/appbox/plex-settings.md): Es wird dringend empfohlen, diese Anleitung genau zu befolgen. Abweichungen können zu Fehlfunktionen führen.
+- [Analytics, E-Mails und Aktivitäten deaktivieren](https://streamboytv.github.io/appbox/plex-analytics.md): Es wird empfohlen, diese Schritte durchzuführen.
+- [Einstellungen der Plex App](https://streamboytv.github.io/appbox/plex-app-settings.md): Gehe in Plex unter Einstellungen und nimm folgendes vor:
+
+## Alles rund um Hardware
+
+- [Hardware](https://streamboytv.github.io/hardware/hardware-list.md): Prozessor:
+- [CoreELEC für Dune HD Homatics R 4K Plus / Homatics R 4K Plus / Nokia 8010](https://streamboytv.github.io/hardware/coreelec-dune-hd-homatics-nokia.md): Android TV mit v5310 oder höher für funktionierendes Dolby Vision.
+
+## Hörbücher
+
+- [Hörbücher-Mediathek hinzufügen](https://streamboytv.github.io/audio/hoerbuecher.md): Dieser Teil ist nur relevant für Nutzer, die vor dem 12.12.24 Streamboy-MItglied geworden sind. Alle anderen haben die Hörbuch-Mediathek automatisch verfügbar!
